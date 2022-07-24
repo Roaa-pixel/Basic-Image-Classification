@@ -1,0 +1,2 @@
+##Objective
+Using Neural Network to classify images on Fashion MNIST library using keras in tensorflow. Model was trained and compiled and predictions were made to test accuracy of the probability model. The trained model was successful as the accuracy level was high.
